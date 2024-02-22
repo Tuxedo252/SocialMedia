@@ -1,0 +1,33 @@
+.app-container{
+  display:flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 100vh;
+}
+
+.posts-container{
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.create-post{
+  padding: 4rem;
+}
+
+.welcome-message{
+  margin:100px 0
+}
+
+
+.spinner-style{
+  width: 10rem;
+  height: 10rem;
+}
